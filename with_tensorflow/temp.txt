@@ -1,0 +1,98 @@
+.
+├── images
+│   ├── non-pixelated
+│   │   ├── 0185A801-AE20-446B-A4B5-F06BCAD30670.jpeg
+│   │   ├── 0741FF1E-088B-4D41-84B3-6C5B03F49037.jpeg
+│   │   ├── 14772612-0709-4EFE-A758-56DAE12F2001.jpeg
+│   │   ├── 1481A125-E887-4B04-8195-925936304EEB.jpeg
+│   │   ├── 17540249-F1B5-4EE0-898C-701E85D032DD.jpeg
+│   │   ├── 1A72FEF6-8511-4FD5-BB71-ED6F134BD636.jpeg
+│   │   ├── 1C807A45-9F73-462E-9B99-C25A72C19819.jpeg
+│   │   ├── 1E175F97-2760-419E-BDBE-1BC75989F287.jpeg
+│   │  
+│   │   ├── samujjal-handique-bD3MpxSwnFY-unsplash.jpg
+│   │   ├── sandy-millar-Kl4LNdg6on4-unsplash.jpg
+│   │   ├── sebastien-jermer-n7DY58YFg9E-unsplash.jpg
+│   │   ├── shot-ed-fms0BB94ItY-unsplash.jpg
+│   │   ├── sorin-basangeac-GIXyq4EvB_o-unsplash.jpg
+│   │   ├── sorin-basangeac-M9EMxXUcWDM-unsplash.jpg
+│   │   ├── sreejith-shanmughan-3aw73UCCSV8-unsplash.jpg
+│   │   ├── sunguk-kim-tIfrzHxhPYQ-unsplash.jpg
+│   │   ├── swello-yN5DVnKunmo-unsplash.jpg
+│   │   ├── tabea-schimpf-O7WzqmeYoqc-unsplash.jpg
+│   │   ├── taiki-ishikawa-9ljhK9vPPB0-unsplash.jpg
+│   │   ├── the-aw-creative-digital-marketing-UnIvyr3_WRk-unsplash.jpg
+│   │   ├── thomas-lefebvre-aRXPJnXQ9lU-unsplash.jpg
+│   │   ├── timur-isachenko-QCqyRNw-UqE-unsplash.jpg
+│   │   ├── toms-rits-cR7ZJog1slc-unsplash.jpg
+│   │   ├── tony-litvyak-ZvyK6aA6ICI-unsplash.jpg
+│   │   ├── vladislav-klapin-PVr9Gsj93Pc-unsplash.jpg
+│   │   ├── volodymyr-dobrovolskyy-kmhxSuZgqT8-unsplash.jpg
+│   │   ├── wayne-bishop-7YUW7fvIYoQ-unsplash.jpg
+│   │   ├── willow-kaii-13drWFUBD8I-unsplash.jpg
+│   │   └── yuvraj-singh-tmAynVA_ihE-unsplash.jpg
+│   └── pixelated
+│       ├── luxa.org-pixelate-17540249-F1B5-4EE0-898C-701E85D032DD1.jpeg
+│       ├── luxa.org-pixelate-17540249-F1B5-4EE0-898C-701E85D032DD2.jpeg
+│       ├── luxa.org-pixelate-17540249-F1B5-4EE0-898C-701E85D032DD3.jpeg
+│       ├── luxa.org-pixelate-17540249-F1B5-4EE0-898C-701E85D032DD4.jpeg
+│       ├── luxa.org-pixelate-17540249-F1B5-4EE0-898C-701E85D032DD5.jpeg
+│       ├── luxa.org-pixelate-17540249-F1B5-4EE0-898C-701E85D032DD6.jpeg
+│       ├── luxa.org-pixelate-17540249-F1B5-4EE0-898C-701E85D032DD7.jpeg
+│       ├── luxa.org-pixelate-17540249-F1B5-4EE0-898C-701E85D032DD8.jpeg
+│       ├── luxa.org-pixelate-17540249-F1B5-4EE0-898C-701E85D032DD.jpeg
+│       ├── luxa.org-pixelate-361BB848-95D7-4CDD-9A14-96D36FA930231.jpeg
+│       ├── luxa.org-pixelate-361BB848-95D7-4CDD-9A14-96D36FA930232.jpeg
+│       ├── luxa.org-pixelate-361BB848-95D7-4CDD-9A14-96D36FA930233.jpeg
+│       ├── luxa.org-pixelate-361BB848-95D7-4CDD-9A14-96D36FA930234.jpeg
+│       ├── luxa.org-pixelate-361BB848-95D7-4CDD-9A14-96D36FA930235.jpeg
+│       ├── luxa.org-pixelate-361BB848-95D7-4CDD-9A14-96D36FA930236.jpeg
+│       ├── luxa.org-pixelate-361BB848-95D7-4CDD-9A14-96D36FA930237.jpeg
+│       ├── luxa.org-pixelate-361BB848-95D7-4CDD-9A14-96D36FA930238.jpeg
+│       ├── luxa.org-pixelate-361BB848-95D7-4CDD-9A14-96D36FA93023.jpeg
+│       ├── luxa.org-pixelate-3D30DB79-DCC6-438A-A85F-271BAE58382C1.jpeg
+│      ├── luxa.org-pixelate-3D30DB79-DCC6-438A-A85F-271BAE58382C2.jpeg
+│       ├── luxa.org-pixelate-3D30DB79-DCC6-438A-A85F-271BAE58382C3.jpeg
+│       ├── luxa.org-pixelate-3D30DB79-DCC6-438A-A85F-271BAE58382C4.jpeg
+│       ├── luxa.org-pixelate-3D30DB79-DCC6-438A-A85F-271BAE58382C5.jpeg
+│       ├── luxa.org-pixelate-3D30DB79-DCC6-438A-A85F-271BAE58382C6.jpeg
+│       ├── luxa.org-pixelate-3D30DB79-DCC6-438A-A85F-271BAE58382C7.jpeg
+│       ├── luxa.org-pixelate-3D30DB79-DCC6-438A-A85F-271BAE58382C.jpeg
+│       ├── luxa.org-pixelate-486A7AD1-AFB1-48DD-A75A-AFD60A5C45641.jpeg
+│       ├── luxa.org-pixelate-486A7AD1-AFB1-48DD-A75A-AFD60A5C45642.jpeg
+│       ├── luxa.org-pixelate-486A7AD1-AFB1-48DD-A75A-AFD60A5C45643.jpeg
+│       ├── luxa.org-pixelate-486A7AD1-AFB1-48DD-A75A-AFD60A5C45644.jpeg
+│       ├── luxa.org-pixelate-486A7AD1-AFB1-48DD-A75A-AFD60A5C45645.jpeg
+│       ├── luxa.org-pixelate-486A7AD1-AFB1-48DD-A75A-AFD60A5C45646.jpeg
+│       ├── luxa.org-pixelate-486A7AD1-AFB1-48DD-A75A-AFD60A5C45647.jpeg
+│       ├── luxa.org-pixelate-486A7AD1-AFB1-48DD-A75A-AFD60A5C45648.jpeg
+│       ├── luxa.org-pixelate-486A7AD1-AFB1-48DD-A75A-AFD60A5C4564.jpeg
+│       ├── luxa.org-pixelate-56CACB75-3365-469D-9FBF-910027EE67981.jpeg
+│       ├── luxa.org-pixelate-56CACB75-3365-469D-9FBF-910027EE67982.jpeg
+│       ├── luxa.org-pixelate-56CACB75-3365-469D-9FBF-910027EE67983.jpeg
+│       ├── luxa.org-pixelate-56CACB75-3365-469D-9FBF-910027EE67984.jpeg
+│       ├── luxa.org-pixelate-56CACB75-3365-469D-9FBF-910027EE67985.jpeg
+│       ├── luxa.org-pixelate-56CACB75-3365-469D-9FBF-910027EE67986.jpeg
+│       ├── luxa.org-pixelate-56CACB75-3365-469D-9FBF-910027EE67987.jpeg
+│       ├── luxa.org-pixelate-56CACB75-3365-469D-9FBF-910027EE67988.jpeg
+│       ├── luxa.org-pixelate-56CACB75-3365-469D-9FBF-910027EE6798.jpeg
+│       ├── luxa.org-pixelate-alexander-bozhko-QZcaymyn21k-unsplash1.jpg
+│       ├── luxa.org-pixelate-alexander-bozhko-QZcaymyn21k-unsplash2.jpg
+│       ├── luxa.org-pixelate-alexander-bozhko-QZcaymyn21k-unsplash3.jpg
+│       ├── luxa.org-pixelate-alexander-bozhko-QZcaymyn21k-unsplash4.jpg
+│       ├── luxa.org-pixelate-alexander-bozhko-QZcaymyn21k-unsplash5.jpg
+│       ├── luxa.org-pixelate-alexander-bozhko-QZcaymyn21k-unsplash6.jpg
+│    
+│       ├── luxa.org-pixelate-ian-schneider-TamMbr4okv4-unsplash.jpg
+│       ├── rename_images.sh
+│       ├── Untitled1.jpeg
+│       ├── Untitled2.jpeg
+│       └── Untitled.jpeg
+├── model
+│   └── pixelation_cnn_model.h5
+├── predict_with_cnn.py
+├── train_cnn_model copy.py
+└── train_cnn_model.py
+
+4 directories, 337 files
+loopassembly@deauther:~/Documents/Pixelated/with_tensorflow$ 
