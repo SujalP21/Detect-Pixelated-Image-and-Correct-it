@@ -1,1 +1,1 @@
-# Intel_work
+# Detect Pixelated Image and Correct it.
